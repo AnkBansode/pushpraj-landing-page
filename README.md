@@ -247,3 +247,4 @@
 </body>
 </html>
 Logo.png
+hero-bg.png
